@@ -13,9 +13,14 @@
 * PIL
 * pytesseract
 * tkinter
+
 您可以使用命令：
 ``` 
 pip install keyboard requests json pillow pytesseract tkinter
+``` 
+或者
+``` 
+pip install -r requirements.txt
 ``` 
 
 2.您需要在OpenAI中创建API密钥，并修改脚本中的'api_key'。
@@ -52,12 +57,14 @@ https://blog.51cto.com/u_15060515/4189941
 
 # 版本控制
 [+] 优化语句，修复小bug。  
+[+] 增加脚本循环使用，并设置sleep防止系统占用过大。    
 [+] 增加GPT-3版本api接口。  
 [+] 增加指定tesseract_path，防止自动识别找不到。  
 [+] 修复keyboard.wait()阻塞主线程BUG。  
 [+] 修改只能全屏截图问题，让用户可以自行选取识别内容。  
 
 推荐使用：gpt-ocr.py
+
 测试版本：test-gpt-ocr.py 增加程序暂停功能，ctrl+c不再是直接结束程序，而是暂停程序等待用户选择。存在二次使用快捷键报错BUG
 
 
