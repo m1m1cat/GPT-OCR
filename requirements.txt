@@ -1,0 +1,6 @@
+keyboard
+requests
+json
+PIL
+pytesseract
+tkinter
