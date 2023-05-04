@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+# -- coding utf-8 --
+# @AuthorCra5h
+# GPT-OCR
+
 import os
 import keyboard
 import requests
