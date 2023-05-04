@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 5.The script will automatically recognize the text in the screenshot and input it into the GPT model. The generated reply will be displayed in the console.
 
-# 注意事项
+# Notes
 Please make sure that the Tesseract OCR engine is installed on your system and its executable file path has been added to the system environment variables.
 Please do not overuse this script to avoid exceeding the OpenAI API usage limit.
 
