@@ -48,7 +48,7 @@ The accuracy of Tesseract recognition may cause problems with the program result
 
 
 # Donation support
- 如果这个项目对你有帮助，你可以给作者发烟 [点我](image/thanku.png)
+ If this project helps you, you can give the author a cigarette [click me](image/thanku.png)
 
 # Reference links
 https://blog.51cto.com/u_15060515/4189941
