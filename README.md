@@ -30,6 +30,19 @@ pip install keyboard requests json pillow pytesseract tkinter
 请确保您的系统已安装 Tesseract OCR 引擎，并且已将其可执行文件路径添加到系统环境变量中。
 请不要过度使用此脚本，以免超出 OpenAI 的 API 使用限制。
 
+# 使用演示/tesseract识别精度
+
+
+
+https://user-images.githubusercontent.com/29671030/236109188-9fdcec07-efaf-4f4b-a791-80c365c52d10.mp4
+
+tesseract识别精度会导致程序结果有问题，需要自行训练提升精度
+
+
+https://user-images.githubusercontent.com/29671030/236109266-d863b7b3-6b07-4869-ab30-711da73a70cc.mp4
+
+
+
 # 捐赠支持
  如果这个项目对你有帮助，你可以给作者发烟 [点我](image/thanku.png)
 
