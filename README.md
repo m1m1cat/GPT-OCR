@@ -38,8 +38,7 @@ https://user-images.githubusercontent.com/29671030/236109188-9fdcec07-efaf-4f4b-
 
 tesseract识别精度会导致程序结果有问题，需要自行训练提升精度
 
-
-https://user-images.githubusercontent.com/29671030/236109266-d863b7b3-6b07-4869-ab30-711da73a70cc.mp4
+(viedo/tesseract-q.mp4)
 
 
 
